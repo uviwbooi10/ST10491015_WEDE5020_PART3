@@ -141,6 +141,16 @@ Updated navigation across site
 Fixed tab functionality in help page
 Added overlay success modal for forms
 
+7. Screenshots
+
+Desktop View : <img width="1919" height="1079" alt="Screenshot 2025-11-19 001456" src="https://github.com/user-attachments/assets/fc4a9fbc-9eb1-4e89-a10c-95eb058d6d21" />
+Mobile View : <img width="1919" height="1079" alt="Screenshot 2025-11-19 002012" src="https://github.com/user-attachments/assets/56f7c9fe-5976-4a9c-8455-ace4a1bfd0aa" />
+Tablet View : <img width="1919" height="1075" alt="Screenshot 2025-11-19 001934" src="https://github.com/user-attachments/assets/bcb7ab77-47cb-4768-ad4a-96a1254a508c" />
+Working Contact Form : <img width="1919" height="1079" alt="Screenshot 2025-11-19 002309" src="https://github.com/user-attachments/assets/48238d5b-56e7-4b51-a3d3-cbe372485356" />
+Success Overlay : <img width="1919" height="1079" alt="Screenshot 2025-11-19 002846" src="https://github.com/user-attachments/assets/89e4ae7b-2f69-4bab-9493-8c61bdb0e181" />
+Google Maps : <img width="1919" height="1079" alt="Screenshot 2025-11-19 002931" src="https://github.com/user-attachments/assets/eb833109-234c-4b6c-a798-0f55efaad206" />                                                        <img width="1919" height="1079" alt="Screenshot 2025-11-19 002947" src="https://github.com/user-attachments/assets/2c8109ea-1736-4c79-9780-2c35ba718df7" />
+
+
 
 9. References
 
