@@ -152,6 +152,25 @@ Google Maps : <img width="1919" height="1079" alt="Screenshot 2025-11-19 002931"
 
 
 
+7. Changelog (Part 3)
+
+Part 3 — Functionality & SEO Updates
+
+Implemented full JavaScript validation for contact form
+Added AJAX submission through Formspree endpoint
+Implemented success modal overlay
+Added fallback to mailto: for offline users
+Updated Help page form with new structure
+Improved SEO metadata for all pages
+Added alt text to all images
+Created robots.txt and sitemap.xml
+Added Google Maps embeds for all store locations
+Updated navigation to include Contact page
+Improved accessibility (ARIA labels, role attributes)
+Fixed layout and responsive issues
+Tested across desktop, mobile and tablet viewports
+
+
 9. References
 
 W3C HTML & CSS guidelines
